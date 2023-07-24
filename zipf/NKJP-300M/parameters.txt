@@ -1,0 +1,123 @@
+NKJP-300M
+iter      chisq       delta/lim  lambda   b1           
+   0 4.4941386737e+13   0.00e+00  1.53e+04    1.000000e+00
+   * 4.5586000426e+13   1.41e+03  1.53e+05   -2.953041e+01
+   * 4.5585951096e+13   1.41e+03  1.53e+06   -1.952209e+01
+   1 1.7639276841e+13  -1.55e+05  1.53e+05    3.925042e-01
+   * 6.1532849683e+13   7.13e+04  1.53e+06    2.364239e-01
+   * 6.0028371007e+13   7.06e+04  1.53e+07    2.369962e-01
+   2 6.9346686836e+12  -1.54e+05  1.53e+06    2.787160e-01
+   3 2.5090963060e+12  -1.76e+05  1.53e+05    3.004422e-01
+   4 2.4443111790e+12  -2.65e+03  1.53e+04    3.038864e-01
+   5 2.4443011796e+12  -4.09e-01  1.53e+03    3.039299e-01
+iter      chisq       delta/lim  lambda   b1           
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.4443e+12
+rel. change during last iteration : -4.09094e-06
+
+degrees of freedom    (FIT_NDF)                        : 201
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 110276
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.21607e+10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b1              = 0.30393          +/- 0.001553     (0.5111%)
+iter      chisq       delta/lim  lambda   a2           
+   0 4.4193944223e+13   0.00e+00  3.04e+04    1.000000e+00
+   * 4.5583090651e+13   3.05e+03  3.04e+05   -1.304138e+01
+   * 4.5581584038e+13   3.04e+03  3.04e+06   -8.438410e+00
+   1 4.0921402721e+13  -8.00e+03  3.04e+05    7.206038e-01
+   * 4.5527118477e+13   1.01e+04  3.04e+06   -2.418567e+00
+   * 4.1007226790e+13   2.09e+02  3.04e+07   -1.711976e-01
+   2 4.0630514284e+13  -7.16e+02  3.04e+06    7.083186e-01
+   3 9.6887750694e+12  -3.19e+05  3.04e+05   -2.091112e-01
+   4 6.9390897764e+11  -1.30e+06  3.04e+04   -2.489110e-01
+   5 4.7785308032e+11  -4.52e+04  3.04e+03   -2.572965e-01
+   6 4.7741082560e+11  -9.26e+01  3.04e+02   -2.577037e-01
+   7 4.7741078652e+11  -8.19e-03  3.04e+01   -2.577097e-01
+iter      chisq       delta/lim  lambda   a2           
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 4.77411e+11
+rel. change during last iteration : -8.18639e-08
+
+degrees of freedom    (FIT_NDF)                        : 201
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 48735.8
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.37518e+09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a2              = -0.25771         +/- 0.0009491    (0.3683%)
+iter      chisq       delta/lim  lambda   c3            b3            a3           
+   0 1.3468029990e+11   0.00e+00  9.13e+05    1.000000e+00   1.000000e+00   1.000000e+00
+   1 3.6522868146e+10  -2.69e+05  9.13e+04    9.847662e-01   1.098422e+00   9.333157e-01
+   2 1.5584470570e+10  -1.34e+05  9.13e+03    1.132817e+00   1.197796e+00   8.744472e-01
+   3 6.7258823715e+08  -2.22e+06  9.13e+02    1.359635e+00   1.256187e+00   8.456547e-01
+   4 2.3647572776e+08  -1.84e+05  9.13e+01    1.356628e+00   1.262679e+00   8.435861e-01
+   5 2.3635247197e+08  -5.21e+01  9.13e+00    1.356886e+00   1.262776e+00   8.435517e-01
+   6 2.3635247050e+08  -6.25e-04  9.13e-01    1.356875e+00   1.262773e+00   8.435533e-01
+iter      chisq       delta/lim  lambda   c3            b3            a3           
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 2.36352e+08
+rel. change during last iteration : -6.25351e-09
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1089.82
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.1877e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c3              = 1.35688          +/- 0.01434      (1.057%)
+b3              = 1.26277          +/- 0.003911     (0.3097%)
+a3              = 0.843553         +/- 0.002148     (0.2546%)
+
+correlation matrix of the fit parameters:
+                c3     b3     a3     
+c3              1.000 
+b3              0.957  1.000 
+a3             -0.968 -0.999  1.000 
+iter      chisq       delta/lim  lambda   c4            a4           
+   0 5.2557522466e+15   0.00e+00  9.02e+06    1.000000e+00   1.000000e+00
+   1 9.3428252917e+14  -4.63e+05  9.02e+05    1.126836e+00   1.486346e+00
+   2 3.1332522967e+14  -1.98e+05  9.02e+04    1.677568e+00   2.425602e+00
+   3 1.0284319695e+14  -2.05e+05  9.02e+03    2.092081e+00   3.909364e+00
+   4 1.7976740297e+13  -4.72e+05  9.02e+02    2.163277e+00   5.681880e+00
+   5 3.3524333766e+11  -5.26e+06  9.02e+01    1.930647e+00   6.201009e+00
+   6 3.9212384025e+10  -7.55e+05  9.02e+00    1.744444e+00   5.294568e+00
+   7 1.2371136640e+10  -2.17e+05  9.02e-01    1.736941e+00   5.339367e+00
+   8 1.2366870246e+10  -3.45e+01  9.02e-02    1.735952e+00   5.334931e+00
+   9 1.2366868191e+10  -1.66e-02  9.02e-03    1.735926e+00   5.334799e+00
+iter      chisq       delta/lim  lambda   c4            a4           
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 1.23669e+10
+rel. change during last iteration : -1.662e-07
+
+degrees of freedom    (FIT_NDF)                        : 200
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7863.48
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.18343e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c4              = 1.73593          +/- 0.01338      (0.7708%)
+a4              = 5.3348           +/- 0.07453      (1.397%)
+
+correlation matrix of the fit parameters:
+                c4     a4     
+c4              1.000 
+a4              0.998  1.000 
+Constant model:
+beta=0.766912382570249
+Davis model:
+alpha=15.9019207908562
+Logistic model:
+gamma=0.424290576645352
+beta=0.441935672200279
+alpha=10.8486148969513
+Linear model:
+gamma=0.0365506948554048
+alpha=3.15716430287877
+The number of tokens:
+n=218899952.0

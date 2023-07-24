@@ -1,0 +1,41 @@
+==> zipf/NKJP-2G-D/parameters.txt <==
+beta=0.687512910442034
+Davis model:
+alpha=12.291124681322
+Logistic model:
+gamma=0.954923020174369
+beta=0.66687473202065
+alpha=0.640126937155523
+Linear model:
+gamma=0.0378981269743639
+alpha=8.1024576539366e-07
+The number of tokens:
+n=34517454.0
+
+==> zipf/NKJP-2G/parameters.txt <==
+beta=0.756394329866848
+Davis model:
+alpha=16.6988398989424
+Logistic model:
+gamma=0.579161573962743
+beta=0.518092901522245
+alpha=9.95471091546865
+Linear model:
+gamma=0.0260467954636661
+alpha=0.736152664116
+The number of tokens:
+n=1068889202.0
+
+==> zipf/NKJP-300M/parameters.txt <==
+beta=0.766912382570249
+Davis model:
+alpha=15.9019207908562
+Logistic model:
+gamma=0.424290576645352
+beta=0.441935672200279
+alpha=10.8486148969513
+Linear model:
+gamma=0.0365506948554048
+alpha=3.15716430287877
+The number of tokens:
+n=218899952.0
